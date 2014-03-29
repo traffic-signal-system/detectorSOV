@@ -1,0 +1,13 @@
+d:\documents\visual studio 2013\Projects\detectorSOV\detectorSOV\bin\Debug\detectorSOV.exe.config
+d:\documents\visual studio 2013\Projects\detectorSOV\detectorSOV\obj\Debug\detectorSOV.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\detectorSOV\detectorSOV\obj\Debug\MainWindow.baml
+d:\documents\visual studio 2013\Projects\detectorSOV\detectorSOV\obj\Debug\MainWindow.g.cs
+d:\documents\visual studio 2013\Projects\detectorSOV\detectorSOV\obj\Debug\App.g.cs
+d:\documents\visual studio 2013\Projects\detectorSOV\detectorSOV\obj\Debug\detectorSOV_MarkupCompile.cache
+d:\documents\visual studio 2013\Projects\detectorSOV\detectorSOV\obj\Debug\detectorSOV.g.resources
+d:\documents\visual studio 2013\Projects\detectorSOV\detectorSOV\obj\Debug\detectorSOV.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\detectorSOV\detectorSOV\obj\Debug\detectorSOV.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\detectorSOV\detectorSOV\bin\Debug\detectorSOV.exe
+d:\documents\visual studio 2013\Projects\detectorSOV\detectorSOV\bin\Debug\detectorSOV.pdb
+d:\documents\visual studio 2013\Projects\detectorSOV\detectorSOV\obj\Debug\detectorSOV.exe
+d:\documents\visual studio 2013\Projects\detectorSOV\detectorSOV\obj\Debug\detectorSOV.pdb

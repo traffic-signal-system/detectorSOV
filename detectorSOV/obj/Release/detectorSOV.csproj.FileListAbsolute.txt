@@ -1,0 +1,13 @@
+d:\documents\visual studio 2013\Projects\detectorSOV\detectorSOV\bin\Release\detectorSOV.exe.config
+d:\documents\visual studio 2013\Projects\detectorSOV\detectorSOV\bin\Release\detectorSOV.exe
+d:\documents\visual studio 2013\Projects\detectorSOV\detectorSOV\bin\Release\detectorSOV.pdb
+d:\documents\visual studio 2013\Projects\detectorSOV\detectorSOV\obj\Release\MainWindow.baml
+d:\documents\visual studio 2013\Projects\detectorSOV\detectorSOV\obj\Release\MainWindow.g.cs
+d:\documents\visual studio 2013\Projects\detectorSOV\detectorSOV\obj\Release\App.g.cs
+d:\documents\visual studio 2013\Projects\detectorSOV\detectorSOV\obj\Release\detectorSOV_MarkupCompile.cache
+d:\documents\visual studio 2013\Projects\detectorSOV\detectorSOV\obj\Release\detectorSOV.g.resources
+d:\documents\visual studio 2013\Projects\detectorSOV\detectorSOV\obj\Release\detectorSOV.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\detectorSOV\detectorSOV\obj\Release\detectorSOV.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\detectorSOV\detectorSOV\obj\Release\detectorSOV.exe
+d:\documents\visual studio 2013\Projects\detectorSOV\detectorSOV\obj\Release\detectorSOV.pdb
+d:\documents\visual studio 2013\Projects\detectorSOV\detectorSOV\obj\Release\detectorSOV.csprojResolveAssemblyReference.cache
